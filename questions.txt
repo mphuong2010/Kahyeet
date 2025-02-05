@@ -1,0 +1,89 @@
+Phương thức nào được gọi đầu tiên khi một đối tượng được tạo ra trong Java?
+constructor_@#
+initializer
+setter
+getInstance
+
+Trong Java, từ khóa nào được sử dụng để xử lý ngoại lệ?
+try-catch_@#
+throw-catch
+catch-throw
+try-finally
+
+Kết quả của biểu thức `1+1` trong Java là gì?
+2_@#
+2.0
+02
+'2'
+
+Kích thước mặc định của kiểu dữ liệu `float` trong Java là bao nhiêu byte?
+2
+4_@#
+8
+16
+
+Phương thức nào được sử dụng để thêm một phần tử vào cuối danh sách `ArrayList`?
+add()_@#
+append()
+insert()
+put()
+
+Điều gì xảy ra khi phương thức `System.exit(0);` được gọi?
+Kết thúc chương trình_@#
+Chỉ tạm dừng chương trình
+Không có ảnh hưởng gì
+Tạo một ngoại lệ
+
+Lớp nào là lớp gốc của tất cả các lớp trong Java?
+Object_@#
+Class
+Base
+Root
+
+Phương thức nào có thể được sử dụng để chuyển đổi `String` thành `int` trong Java?
+parseInt()_@#
+toInt()
+Integer.parse()
+toInteger()
+
+Từ khóa nào được sử dụng để kế thừa một lớp trong Java?
+implements
+extends_@#
+inherit
+super
+
+Kiểu dữ liệu nào được sử dụng để lưu trữ một chuỗi ký tự trong Java?
+Character
+String_@#
+Char
+Text
+
+Điều gì sẽ xảy ra nếu bạn gọi `notify()` trong một phương thức không đồng bộ (`synchronized`)?
+Ngoại lệ IllegalMonitorStateException sẽ được ném ra_@#
+Không có gì xảy ra
+Thread sẽ tạm dừng
+notify() luôn hoạt động
+
+Trong Java, `HashMap` có cho phép các khóa (keys) bị trùng lặp không?
+Có
+Không_@#
+Chỉ nếu các giá trị (values) là khác nhau
+Tùy thuộc vào tình huống
+
+Trong xử lý ngoại lệ, từ khóa nào cho phép bạn thực hiện một đoạn mã bất kể ngoại lệ có xảy ra hay không?
+finally_@#
+catch
+try
+throw
+
+Lệnh nào dưới đây sử dụng để tạo một mảng có kích thước 10 phần tử trong Java?
+int[] arr = new int[10];_@#
+int arr[10];
+int arr = int[10];
+int arr[] = 10;
+
+Đối tượng nào có thể được sử dụng để đọc dữ liệu từ người dùng thông qua bàn phím?
+Scanner_@#
+InputStream
+FileReader
+DataInput
